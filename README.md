@@ -9,7 +9,7 @@ Open the model in NetLogo v6.1.1 or later.
 
 Further instructions to be found in the Info tab of the model.
 
-
+Geospatial data for the Dogrib Fire scenarios in the model were derived from data obtained at http://firegrowthmodel.ca/prometheus/software_e.php. 
 
 Copyright 2021 Jeffrey Katan
 
