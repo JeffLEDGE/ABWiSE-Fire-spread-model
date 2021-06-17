@@ -1046,12 +1046,14 @@ to-report performance
     set t 0]
   report t30
 end
+
+;Copyright 2021 Jeffrey Katan
 @#$#@#$#@
 GRAPHICS-WINDOW
 449
 10
-1346
-617
+1357
+624
 -1
 -1
 15.517241379310345
@@ -1832,7 +1834,10 @@ Or you could create a procedure to read weather data from a table.
 
 ## CREDITS AND REFERENCES
 
-Model developed and written by Jeffrey Katan
+Copyright 2021 Jeffrey Katan
+This work is licensed under the Creative Commons Attibution 4.0 International license.
+More information can be found here https://creativecommons.org/licenses/by/4.0/
+
 @#$#@#$#@
 default
 true
